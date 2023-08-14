@@ -1,0 +1,32 @@
+.bg-container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.heading {
+  font-size: 64px;
+  font-family: 'Bree Serif';
+  color: #f0bb03;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.paragraph {
+  font-size: 24px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.subscribe-btn {
+  background-color: #ffffff;
+  color: #1e293b;
+  border: 0px;
+  border-radius: 8px;
+  font-size: 16px;
+  padding: 10px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+}
